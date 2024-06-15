@@ -39,13 +39,13 @@
     },
     {
       "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "icon": "telegram",
+      "url": "https://t.me/safeswap_online"
     },
     {
       "name": "Blog",
       "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "url": "https://www.defi-cms.com/blog"
     }
   ],
   "navigation": [
